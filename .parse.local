@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "CloudWebApi": {
+      "applicationId": "GtYTSygShbya0Y8AkErlYnHJUqvte3KiTLsB8DOb"
+    },
+    "_default": {
+      "link": "CloudWebApi"
+    }
+  }
+}
