@@ -1,8 +1,8 @@
 ### webapi_unity3d
 This just the basics of building a game that allows connecting and usage of REST endpoints. I've used a framework like express to create a Node Server and Parse SDK with Unity
 
-![sample](sample1.png)
-![sample](sample2.png)
+<img src="sample1.png" width="600" height="257">
+<img src="sample2.png" width="600" height="257">
 ------------------
 
 ### Setup
